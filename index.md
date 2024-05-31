@@ -16,6 +16,7 @@ This guide will walk you through the process of buying PESHI using the Trojan bo
     - [Dollar Cost Averaging (DCA) Purchase (Optional)](#dollar-cost-averaging-dca-purchase-optional)
   - [Step 8: Create Order](#step-8-create-order)
   - [Recommendations](#recommendations)
+  - [How to Create Auto-Sell](#how-to-create-auto-sell)
 - [German Version](#deutsche-version)
   - [Schritt 1: Öffnen Sie Trojan auf Telegram](#schritt-1-öffnen-sie-trojan-auf-telegram)
   - [Schritt 2: Starten Sie den Bot](#schritt-2-starten-sie-den-bot)
@@ -28,6 +29,7 @@ This guide will walk you through the process of buying PESHI using the Trojan bo
     - [Dollar Cost Averaging (DCA) Kauf (Optional)](#dollar-cost-averaging-dca-kauf-optional)
   - [Schritt 8: Erstellen Sie eine Bestellung](#schritt-8-erstellen-sie-eine-bestellung)
   - [Empfehlungen](#empfehlungen)
+  - [Wie man Auto-Sell erstellt](#wie-man-auto-sell-erstellt)
 
 ## English Version
 
@@ -80,6 +82,22 @@ This guide will walk you through the process of buying PESHI using the Trojan bo
 - **One-Time Purchase**: Ideal for those who want to make a single investment.
 - **Dollar Cost Averaging (DCA)**: Suitable for those who want to spread their investment over time to reduce the impact of market volatility.
 
+### How to Create Auto-Sell
+
+1. **Open Settings**: In Trojan, open the Menu and click on "Settings".
+2. **Select Auto Sell**: In the settings menu, click the "Auto Sell" button.
+3. **Check Current State**: At the top, you can see the current state: RED for off, Green for on.
+4. **Create Auto Sells**:
+   1. Sell all tokens when the price drops more than 30%.
+   2. Take out your initial investment.
+   3. Take out another 25% when the price rises more than 1000%.
+5. **Add Orders**:
+   1. Click "+ Add Order", enter TP: -30% and Amount: 100%.
+   2. Click "+ Add Order" again, enter TP: 100% and Amount: 50%.
+   3. Click "+ Add Order", enter TP: 1000% and Amount: 25%.
+
+This will sell everything if the price drops 30%, take out your initial investment if the price rises more than 100%, and sell 25% if the price rises more than 1000%. The other 25% will remain for gambling.
+
 By following these steps, you can easily buy PESHI using the Trojan bot on Telegram. Happy investing!
 
 ## Deutsche Version
@@ -124,13 +142,29 @@ By following these steps, you can easily buy PESHI using the Trojan bot on Teleg
 3. **Intervall festlegen**: Legen Sie das Intervall in Minuten fest, wie oft der Swap ausgeführt werden soll.
 4. **Dauer auswählen**: Wählen Sie die Dauer, wie lange der DCA-Auftrag dauern soll.
 
-### Schritt 8: Erstellen Sie eine Order
+### Schritt 8: Erstellen Sie eine Bestellung
 
-1. **Klicken Sie auf "CREATE ORDER"**: Klicken Sie auf die Schaltfläche "CREATE ORDER", um Ihren Kauf abzuschließen.
+1. **Klicken Sie auf "Bestellung erstellen"**: Klicken Sie auf die Schaltfläche "Bestellung erstellen", um Ihren Kauf abzuschließen.
 
 ### Empfehlungen
 
 - **Einmaliger Kauf**: Ideal für diejenigen, die eine einmalige Investition tätigen möchten.
 - **Dollar Cost Averaging (DCA)**: Geeignet für diejenigen, die ihre Investition über die Zeit streuen möchten, um die Auswirkungen von Marktschwankungen zu reduzieren.
+
+### Wie man Auto-Sell erstellt
+
+1. **Einstellungen öffnen**: Öffnen Sie im Trojan-Menü die Einstellungen und klicken Sie auf "Settings".
+2. **Auto Sell auswählen**: Klicken Sie im Einstellungsmenü auf die Schaltfläche "Auto Sell".
+3. **Aktuellen Status prüfen**: Oben sehen Sie den aktuellen Status: ROT für aus, GRÜN für an.
+4. **Auto-Sells erstellen**:
+   1. Verkaufen Sie alle Token, wenn der Preis um mehr als 30% fällt.
+   2. Nehmen Sie Ihre anfängliche Investition heraus.
+   3. Nehmen Sie weitere 25% heraus, wenn der Preis um mehr als 1000% steigt.
+5. **Aufträge hinzufügen**:
+   1. Klicken Sie auf "+ Add Order", geben Sie TP: -30% und Menge: 100% ein.
+   2. Klicken Sie erneut auf "+ Add Order", geben Sie TP: 100% und Menge: 50% ein.
+   3. Klicken Sie auf "+ Add Order", geben Sie TP: 1000% und Menge: 25% ein.
+
+Dies wird alles verkaufen, wenn der Preis um 30% fällt, Ihre anfängliche Investition herausnehmen, wenn der Preis um mehr als 100% steigt, und 25% verkaufen, wenn der Preis um mehr als 1000% steigt. Die anderen 25% bleiben zum Spekulieren.
 
 Wenn Sie diese Schritte befolgen, können Sie PESHI ganz einfach mit dem Trojan-Bot auf Telegram kaufen. Viel Erfolg beim Investieren!
