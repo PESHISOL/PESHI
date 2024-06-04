@@ -35,7 +35,7 @@ This guide will walk you through the process of buying PESHI using the Trojan bo
 
 ### Step 1: Open Trojan on Telegram
 
-1. **Click the Link**: [Open Trojan Bot on Telegram](https://t.me/helenus_trojanbot?start=r-slavovicc)
+1. **Click the Link**: [Open Trojan Bot on Telegram](https://t.me/solana_trojanbot?start=r-slavovicc)
    - Note: This link includes a referral code that will save you 10% on fees. If you prefer not to use the referral, delete everything after the `?` in the URL.
 
 ### Step 2: Start the Bot
@@ -104,7 +104,7 @@ By following these steps, you can easily buy PESHI using the Trojan bot on Teleg
 
 ### Schritt 1: Öffnen Sie Trojan auf Telegram
 
-1. **Klicken Sie auf den Link**: [Trojan Bot auf Telegram öffnen](https://t.me/helenus_trojanbot?start=r-slavovicc)
+1. **Klicken Sie auf den Link**: [Trojan Bot auf Telegram öffnen](https://t.me/solana_trojanbot?start=r-slavovicc)
    - Hinweis: Dieser Link enthält einen Empfehlungscode, der Ihnen 10% der Gebühren spart. Wenn Sie den Empfehlungscode nicht verwenden möchten, löschen Sie alles nach dem `?` in der URL.
 
 ### Schritt 2: Starten Sie den Bot
